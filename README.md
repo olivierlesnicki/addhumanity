@@ -41,6 +41,9 @@ Use them as cognitive lenses, not as truth guarantees.
 - `skills/paranoia.md` - Apply adversarial suspicion to incentives and hidden attack paths.
 - `skills/melancholy.md` - Add temporal depth, memory, and meaning-sensitive judgment.
 - `skills/insomnia.md` - Sustain recursive attention until unresolved threads connect.
+- `skills/impostor-syndrome.md` - Force self-audit and evidence-backed claims under fear of being wrong.
+- `skills/fury.md` - Convert moral urgency into direct, decisive action.
+- `skills/dissociation.md` - Detach from narrative noise to map systems with cold clarity.
 
 ## Why This Exists
 
