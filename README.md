@@ -1,5 +1,7 @@
 # addhumanity
 
+An experimental skill pack that injects human-like mindstates into agents to expand reasoning beyond default robotic tone.
+
 ## Manifesto
 
 `addhumanity` is an attempt to push agents further, beyond their robotic nature.
