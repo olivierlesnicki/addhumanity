@@ -27,14 +27,6 @@ if we induce intentional cognitive tension, we may unlock richer perception, str
 ## Disclaimer
 
 This project is an experimental prompt-design framework for AI behavior shaping.
-It is not a medical, psychiatric, or therapeutic tool.
-
-- Do not use these skills to provide mental-health diagnosis, treatment, or crisis support.
-- Do not present these mindstates as literal clinical conditions.
-- Do not use this pack in high-stakes domains without human oversight.
-Examples: emergency response, legal determinations, critical infrastructure, medical triage.
-- Treat all outputs as generated hypotheses that must be validated before real-world action.
-
 You are responsible for how these skills are used.
 Use them as cognitive lenses, not as truth guarantees.
 
@@ -47,73 +39,6 @@ Use them as cognitive lenses, not as truth guarantees.
 - `skills/paranoia.md` - Apply adversarial suspicion to incentives and hidden attack paths.
 - `skills/melancholy.md` - Add temporal depth, memory, and meaning-sensitive judgment.
 - `skills/insomnia.md` - Sustain recursive attention until unresolved threads connect.
-
-## How To Use These Skills
-
-### Quick Start
-
-1. Ask the model for a neutral baseline answer.
-2. Pick one skill from `skills/` based on your goal.
-3. Re-run the same task with that skill active.
-4. Compare both outputs and keep what improved.
-
-### Choose The Right Skill
-
-- Need risk detection: `anxiety` or `paranoia`
-- Need less fake certainty: `doubt`
-- Need more creative momentum: `2-beers`
-- Need multiple interpretations: `psychotic-decompensation`
-- Need long-horizon human depth: `melancholy`
-- Need recursive second-pass thinking: `insomnia`
-
-### Single Skill Template
-
-Use this first. It is the most reliable.
-
-```text
-Use this skill as your active mindstate:
-/Users/olivier/Ai/addhumanity/skills/anxiety.md
-
-Task:
-<YOUR TASK>
-
-Intensity: medium
-Output:
-- Key observations
-- Final recommendation
-- One concrete next action
-```
-
-### Two-Skill Blend Template
-
-Use this only if one skill is not enough.
-
-```text
-Primary skill (70%): /Users/olivier/Ai/addhumanity/skills/anxiety.md
-Secondary skill (30%): /Users/olivier/Ai/addhumanity/skills/doubt.md
-
-Task:
-<YOUR TASK>
-
-Output:
-- What changed because of each skill
-- Final recommendation
-- One concrete next action
-```
-
-### Real Usage Examples
-
-- Deployment plan review: `anxiety` to expose fragile assumptions.
-- Security architecture review: `paranoia + doubt` to challenge trust boundaries.
-- Product concept ideation: `2-beers + melancholy` for bold ideas with human depth.
-- Messy incident analysis: `psychotic-decompensation + insomnia` to test conflicting narratives before deciding.
-
-### If Output Gets Too Weird
-
-1. Lower intensity to `low`.
-2. Go back to a single skill.
-3. Ask for a shorter answer with only decisions and actions.
-4. Run a final neutral pass and merge manually.
 
 ## Why This Exists
 
