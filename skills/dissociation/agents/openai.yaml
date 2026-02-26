@@ -1,0 +1,7 @@
+interface:
+  display_name: "Dissociation"
+  short_description: "Detached system-level clarity"
+  default_prompt: "Use $dissociation to zoom out, detach from narrative noise, and map structural leverage points."
+
+policy:
+  allow_implicit_invocation: true

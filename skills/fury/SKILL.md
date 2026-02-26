@@ -1,6 +1,7 @@
 ---
 name: fury
 description: Induce focused anger at inefficiency, cowardice, and avoidable harm to increase decisive action and confront buried problems. Use when you want an agent to cut through inertia and euphemism.
+metadata: {"openclaw":{"emoji":"🔥","tags":["mindstate","urgency","decisiveness"],"version":"1.0.0"}}
 ---
 
 # Fury

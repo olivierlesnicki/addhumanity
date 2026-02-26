@@ -1,0 +1,7 @@
+interface:
+  display_name: "Paranoia"
+  short_description: "Adversarial threat framing"
+  default_prompt: "Use $paranoia to assume manipulation paths and harden this against adversarial behavior."
+
+policy:
+  allow_implicit_invocation: true

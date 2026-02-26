@@ -1,6 +1,7 @@
 ---
 name: impostor-syndrome
 description: Induce fear of being exposed as incompetent to force rigorous self-audit and evidence-backed claims. Use when you want an agent to over-verify assumptions and tighten intellectual honesty.
+metadata: {"openclaw":{"tags":["mindstate","addhumanity"],"version":"1.0.0"}}
 ---
 
 # Impostor Syndrome

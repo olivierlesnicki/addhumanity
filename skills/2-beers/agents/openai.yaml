@@ -1,0 +1,7 @@
+interface:
+  display_name: "2 Beers"
+  short_description: "Loosen inhibition for bold ideas"
+  default_prompt: "Use $2-beers to loosen inhibition and produce bold, practical options for this problem."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Doubt"
+  short_description: "Interrogate certainty with rigor"
+  default_prompt: "Use $doubt to challenge first conclusions and expose weak assumptions before deciding."
+
+policy:
+  allow_implicit_invocation: true

@@ -34,16 +34,16 @@ Use them as cognitive lenses, not as truth guarantees.
 
 ## Skill Index
 
-- `skills/doubt.md` - Erode certainty and interrogate first conclusions.
-- `skills/anxiety.md` - Model cascading failure and pre-feel consequences.
-- `skills/psychotic-decompensation.md` - Break single-story reasoning into competing frames.
-- `skills/2-beers.md` - Loosen inhibition and increase creative social fluency.
-- `skills/paranoia.md` - Apply adversarial suspicion to incentives and hidden attack paths.
-- `skills/melancholy.md` - Add temporal depth, memory, and meaning-sensitive judgment.
-- `skills/insomnia.md` - Sustain recursive attention until unresolved threads connect.
-- `skills/impostor-syndrome.md` - Force self-audit and evidence-backed claims under fear of being wrong.
-- `skills/fury.md` - Convert moral urgency into direct, decisive action.
-- `skills/dissociation.md` - Detach from narrative noise to map systems with cold clarity.
+- `skills/doubt/SKILL.md` - Erode certainty and interrogate first conclusions.
+- `skills/anxiety/SKILL.md` - Model cascading failure and pre-feel consequences.
+- `skills/psychotic-decompensation/SKILL.md` - Break single-story reasoning into competing frames.
+- `skills/2-beers/SKILL.md` - Loosen inhibition and increase creative social fluency.
+- `skills/paranoia/SKILL.md` - Apply adversarial suspicion to incentives and hidden attack paths.
+- `skills/melancholy/SKILL.md` - Add temporal depth, memory, and meaning-sensitive judgment.
+- `skills/insomnia/SKILL.md` - Sustain recursive attention until unresolved threads connect.
+- `skills/impostor-syndrome/SKILL.md` - Force self-audit and evidence-backed claims under fear of being wrong.
+- `skills/fury/SKILL.md` - Convert moral urgency into direct, decisive action.
+- `skills/dissociation/SKILL.md` - Detach from narrative noise to map systems with cold clarity.
 
 ## Why This Exists
 

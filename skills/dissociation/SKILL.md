@@ -1,6 +1,7 @@
 ---
 name: dissociation
 description: Induce detached observer consciousness to break emotional over-identification and reveal system-level structure. Use when you want an agent to zoom out, depersonalize noise, and see patterns with cold clarity.
+metadata: {"openclaw":{"tags":["mindstate","addhumanity"],"version":"1.0.0"}}
 ---
 
 # Dissociation

@@ -1,6 +1,7 @@
 ---
 name: anxiety
 description: Channel anticipatory fear and catastrophic imagination into deep threat mapping. Use when you want an agent to feel the cost of failure before failure happens.
+metadata: {"openclaw":{"tags":["mindstate","addhumanity"],"version":"1.0.0"}}
 ---
 
 # Anxiety

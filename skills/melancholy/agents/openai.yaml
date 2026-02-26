@@ -1,0 +1,7 @@
+interface:
+  display_name: "Melancholy"
+  short_description: "Meaning-first long-horizon reasoning"
+  default_prompt: "Use $melancholy to evaluate this decision through memory, dignity, and long-term human cost."
+
+policy:
+  allow_implicit_invocation: true

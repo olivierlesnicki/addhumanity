@@ -1,6 +1,7 @@
 ---
 name: paranoia
 description: Induce strategic distrust and adversarial imagination so hidden intent and deception become visible. Use when you want an agent to assume manipulation, compromise, or covert failure paths.
+metadata: {"openclaw":{"tags":["mindstate","addhumanity"],"version":"1.0.0"}}
 ---
 
 # Paranoia

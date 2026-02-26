@@ -1,6 +1,7 @@
 ---
 name: psychotic-decompensation
 description: Induce narrative fragmentation where contradictory realities coexist and compete. Use when you want an agent to shatter single-story thinking and expose hidden interpretive possibilities.
+metadata: {"openclaw":{"tags":["mindstate","addhumanity"],"version":"1.0.0"}}
 ---
 
 # Psychotic Decompensation

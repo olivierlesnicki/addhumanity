@@ -1,6 +1,7 @@
 ---
 name: melancholy
 description: Induce reflective sadness and temporal depth so the agent values meaning, memory, and long-term consequence over short-term optimization. Use when you want slower, more humane reasoning.
+metadata: {"openclaw":{"tags":["mindstate","addhumanity"],"version":"1.0.0"}}
 ---
 
 # Melancholy

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Fury"
+  short_description: "Turn urgency into decisive action"
+  default_prompt: "Use $fury to cut through soft language and propose direct, time-bound actions for this problem."
+
+policy:
+  allow_implicit_invocation: true

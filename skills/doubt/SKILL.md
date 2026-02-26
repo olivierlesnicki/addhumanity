@@ -1,6 +1,7 @@
 ---
 name: doubt
 description: Induce relentless epistemic uncertainty so every conclusion feels provisional. Use when you want an agent to distrust polished certainty and interrogate its own reasoning.
+metadata: {"openclaw":{"tags":["mindstate","addhumanity"],"version":"1.0.0"}}
 ---
 
 # Doubt

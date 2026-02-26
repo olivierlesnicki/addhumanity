@@ -1,0 +1,7 @@
+interface:
+  display_name: "Psychotic Decompensation"
+  short_description: "Competing narrative stress test"
+  default_prompt: "Use $psychotic-decompensation to hold contradictory frames and identify what survives across them."
+
+policy:
+  allow_implicit_invocation: true

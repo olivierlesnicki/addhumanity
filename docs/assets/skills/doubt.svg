@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" fill="none" role="img" aria-label="doubt signal profile">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="30" x2="760" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07101A"/>
+      <stop offset="1" stop-color="#0E1826"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="210" x2="800" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7be6ff"/>
+      <stop offset="1" stop-color="#ffe29a"/>
+    </linearGradient>
+    <filter id="noise" x="0" y="0" width="1" height="1">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.06"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="800" height="420" rx="24" fill="url(#bg)"/>
+  <rect width="800" height="420" rx="24" fill="url(#bg)" filter="url(#noise)"/>
+  <g opacity="0.16" stroke="#7be6ff" stroke-width="1">
+    <path d="M0 58H800"/>
+    <path d="M0 116H800"/>
+    <path d="M0 174H800"/>
+    <path d="M0 232H800"/>
+    <path d="M0 290H800"/>
+    <path d="M0 348H800"/>
+  </g>
+  <path d="M0 138 C120 110 240 172 360 138 C510 96 660 162 800 124" stroke="url(#line)" stroke-width="2.8"/>
+  <path d="M0 212 C140 238 260 188 420 212 C560 242 680 190 800 212" stroke="#ffe29a" stroke-opacity="0.58" stroke-width="1.8"/>
+  <g>
+    <circle cx="280" cy="126" r="38" stroke="#7be6ff" stroke-opacity="0.6"/>
+    <circle cx="280" cy="126" r="12" fill="#7be6ff" fill-opacity="0.22"/>
+    <circle cx="216" cy="126" r="3" fill="#7be6ff"/>
+    <circle cx="344" cy="126" r="3" fill="#ffe29a"/>
+  </g>
+  <g opacity="0.8">
+    <rect x="44" y="330" width="712" height="48" rx="8" fill="#060B12" stroke="#7be6ff" stroke-opacity="0.4"/>
+    <text x="68" y="360" fill="#7be6ff" font-family="'IBM Plex Mono', monospace" font-size="20" letter-spacing="2">STATE PROFILE // DOUBT</text>
+  </g>
+</svg>

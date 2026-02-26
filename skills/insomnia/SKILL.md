@@ -1,6 +1,7 @@
 ---
 name: insomnia
 description: Induce restless overnight cognition where unresolved threads keep resurfacing until they connect. Use when you want obsessive continuity, second-order thinking, and relentless unfinished-business energy.
+metadata: {"openclaw":{"tags":["mindstate","addhumanity"],"version":"1.0.0"}}
 ---
 
 # Insomnia

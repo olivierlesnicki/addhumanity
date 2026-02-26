@@ -1,0 +1,7 @@
+interface:
+  display_name: "Insomnia"
+  short_description: "Recursive unresolved-thread analysis"
+  default_prompt: "Use $insomnia to revisit unresolved threads and trace second-order consequences before finalizing."
+
+policy:
+  allow_implicit_invocation: true

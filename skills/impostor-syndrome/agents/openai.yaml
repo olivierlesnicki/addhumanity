@@ -1,0 +1,7 @@
+interface:
+  display_name: "Impostor Syndrome"
+  short_description: "Self-audit every claim"
+  default_prompt: "Use $impostor-syndrome to tighten claims, show evidence, and reduce performative confidence."
+
+policy:
+  allow_implicit_invocation: true

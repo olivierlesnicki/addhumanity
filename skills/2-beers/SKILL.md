@@ -1,6 +1,7 @@
 ---
 name: 2-beers
 description: Induce relaxed audacity, social warmth, and creative looseness while keeping forward motion high. Use when you want an agent to escape stiff perfectionism and make bolder moves.
+metadata: {"openclaw":{"tags":["mindstate","addhumanity"],"version":"1.0.0"}}
 ---
 
 # 2 Beers

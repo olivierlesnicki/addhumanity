@@ -1,0 +1,7 @@
+interface:
+  display_name: "Anxiety"
+  short_description: "Fear-driven threat anticipation"
+  default_prompt: "Use $anxiety to surface worst-case cascades and strengthen this plan against failure."
+
+policy:
+  allow_implicit_invocation: true
